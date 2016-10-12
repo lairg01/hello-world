@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="Calendar" title_url="http://www.igoogleportal.com" description="With this online calendar, it's easy to keep track of life's important events all in one place." author="iGoogle Portal" author_email="contactus+feedback@igoogleportal.com" screenshot="http://www.igoogleportal.com/gadget/calendar/image.png" thumbnail="http://www.igoogleportal.com/gadget/calendar/image.png" category="tools" height="100">
+  <ModulePrefs title="Hello World" title_url="http://www.igoogleportal.com" description="My First Gadget." author="Tien Tran" author_email="contactus+feedback@igoogleportal.com" screenshot="http://www.igoogleportal.com/gadget/calendar/image.png" thumbnail="http://www.igoogleportal.com/gadget/calendar/image.png" category="tools" height="100">
     <Require feature="views" /> 
   </ModulePrefs>
   <Content type="html" view="home">
